@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 facebook
-=======
 twitter
->>>>>>> 6076113 (Implemet twitter login)
